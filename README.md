@@ -1,2 +1,6 @@
-# weather-app
-build Weather App with React Native!
+## **Weather App**
+
+*build Weather App with React Native!*
+<hr>
+
+**Device** : ios
